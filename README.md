@@ -32,3 +32,5 @@ Model can be retrained with updated datasets.
 Prevents false positives by analyzing multiple factors.
 Uses preprocessing techniques to filter unnecessary text.
 Model can be retrained with updated datasets.
+
+Access the project report here : https://drive.google.com/file/d/1MA0XNCCtpdt7G9dac8j4LU1mrDjL3qvn/view?usp=sharing
